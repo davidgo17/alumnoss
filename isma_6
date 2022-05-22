@@ -1,0 +1,17 @@
+--creamos una tabla llamado isma6 en la base de alumnos
+
+create table isma_6 (
+	matricula bigint,
+	nombres char (30),
+	apellidos char (30),
+	edad int,
+	telefono bigint,
+	signo varchar(30)
+)
+
+insert into isma_6 (matricula, nombres, apellidos,edad,telefono,signo) 
+values (190204011,'Sami David','Gomez Gomez',21,9821161009,'Piscis');
+
+select * from isma_6
+		
+delete  from isma6
