@@ -21,5 +21,8 @@ values (190204027,'Roberto Alejandro','Hernandez Rosel',22,9821132437,'Aries');
 insert into isma_6 (matricula, nombres, apellidos,edad,telefono,signo) 
 values (190204006,'Azucena','Contreras Torres',21,9821176907,'Capricornio');
 
+insert into isma_6 (matricula, nombres, apellidos,edad,telefono,signo) 
+values (190204003,'Jorge Luis','Mis Ramos',21,9821191533,'Tauro');
+
 select * from isma_6
 		
