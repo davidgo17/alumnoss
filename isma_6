@@ -12,5 +12,8 @@ create table isma_6 (
 insert into isma_6 (matricula, nombres, apellidos,edad,telefono,signo) 
 values (190204011,'Sami David','Gomez Gomez',21,9821161009,'Piscis');
 
+insert into isma_6 (matricula, nombres, apellidos,edad,telefono,signo) 
+values (190204014,'Rey Andres','Santos Cruz',20,9821154810,'Geminis');
+
 select * from isma_6
 		
